@@ -1,1 +1,4 @@
 *.example.com tee /etc/puppetlabs/puppet/autosign.conf
+*.example.com tee /etc/puppetlabs/puppet/autosign.conf
+*.example.com tee /etc/puppetlabs/puppet/autosign.conf
+*.example.com tee /etc/puppetlabs/puppet/autosign.conf
