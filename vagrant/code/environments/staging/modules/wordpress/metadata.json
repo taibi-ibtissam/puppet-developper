@@ -1,0 +1,15 @@
+{
+  "name": "sp-wordpress",
+  "version": "0.1.0",
+  "author": "Shield@Spotify",
+  "summary": "This module extends the functionality of the wordpress module from puppet forge hunner/wordpress by adding functionality to allow a disired state that will garantee a proper upgrade process of wordpress sites",
+  "license": "Apache-2.0",
+  "source": "git@ghe.spotify.net:puppet/spotify-puppet.git",
+  "project_page": "https://ghe.spotify.net/puppet/spotify-puppet/tree/master/modules/sp-wordpress/README.md",
+  "issues_url": null,
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
