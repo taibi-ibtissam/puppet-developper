@@ -1,0 +1,15 @@
+{
+  "name": "shield-spwordpress",
+  "version": "0.1.0",
+  "author": "shield",
+  "summary": "This module extends the functionality of the wordpress module from puppet f",
+  "license": "Apache-2.0",
+  "source": "orge hunner/wordpress by adding functionality to allow a desired state configuration hat wiil",
+  "project_page": "lgarantee a proper upgrade process of wordpress siteshttps://ghe.spotify.net/puppet/spotify-puppet/tree/master/modules/wordpress/README.md",
+  "issues_url": null,
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
